@@ -20,12 +20,12 @@ int main(int argc, char** argv)
     vectorOfPolis.clear(); 
 
     //for testing from VS
-    
+    /*
     argc = 4;
     argv[1] = (char*)"3";
     argv[2] = (char*)"-";
     argv[3] = (char*)"4";
-    
+    */
 
     if (argc != 4 && argc != 5)
         displaySyntaxError();
