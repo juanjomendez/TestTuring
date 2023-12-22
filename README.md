@@ -5,7 +5,7 @@ This is a test for the Job Position: Geometry Developer
 It has been made with Visual Studio 2019, and the boost libraries for geometry
 
 Usage:
-You can launch this tools with the followint syntax
+You can launch this tool with the followint syntax:
 
 TestTuring.exe (optional file.txt) index1 operation index2
 
