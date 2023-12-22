@@ -16,13 +16,21 @@ TestTuring.exe (optional file.txt) index1 operation index2
 - And the last parameter is the index of the second polygon that we want to make operations with
 
 * The definition of the polygons (in the text file) goes like this
+* 
   #poly0//name of the poly (It HAS to start with the # symbol... the rest is irrelevant)
+  
   0.0, 0.0,//Coordinates of the first point
+  
   0.0, 2.0,//Coordinates of the second point
+  
   2.0, 2.0,//
+  
   2.0, 0.0,
+  
   0.0, 0.0,
+  
   END//To indicate the end of the polygon... Note that the last point is the same than the first, to complete the polygon
+  
 
 Empty lines are allowed... 
 
