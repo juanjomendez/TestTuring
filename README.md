@@ -27,9 +27,9 @@ TestTuring.exe (optional file.txt) index1 operation index2
 Empty lines are allowed... 
 
 * List of allowed operations:
-+ Union
-- Difference
-* Intersection
++ Union (+)
+- Difference (-)
+* Intersection (*)
 
 
 For example, you can do:
